@@ -82,8 +82,7 @@ Visual-Intrusion-Detector/
 │   ├── package.json
 │   └── vite.config.js
 │
-│── assets/
-│   └── screenshots/
+│── Screenshots
 │
 │── .gitignore
 │── README.md
