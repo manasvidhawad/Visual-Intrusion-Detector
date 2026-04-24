@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+opencv-python
+mediapipe
+numpy
+Pillow
+python-multipart
+winotify
+plyer
+websockets
+pydantic
